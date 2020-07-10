@@ -1,1 +1,5 @@
 /self-built-masked-face-recognition-dataset/*
+
+/test_images/*
+
+/.ipynb_checkpoints/*
