@@ -25,4 +25,7 @@ The dataset offers 90,000 face images without masks, 2203 face images with masks
 <strong>self-built-masked-face-recognition-dataset.zip: </strong> The dataset we used for the training the model. It's derived from the <a href='https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset'>Real-World-Masked-Face-Dataset,</a> with the usage of <i>remove_images_from_dataset.py</i>.
 <br>
 
-<strong>Note: </strong> All the sources we used building this project, weather it's the code or the report, can be found on the <strong><i>"References"</i></strong> part of our report.
+<strong>CV_Project_Report.pdf: </strong> Our report can be found in the folder <strong><i>"project_report"</i></strong>.
+<br>
+
+<strong>Note: </strong> All the sources we used building this project, weather it's for the code or the report, can be found on the <strong><i>"References"</i></strong> part of our report.
